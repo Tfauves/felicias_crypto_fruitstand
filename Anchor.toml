@@ -1,13 +1,13 @@
 [features]
 seeds = false
-[programs.localnet]
+[programs.devnet]
 felicias_crypto_fruitstand = "Aru5TV39J4P7Fx75BhhPieTKbsJLR4917HysPeo6d5TA"
 
 [registry]
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/home/threedevx/.config/solana/id.json"
 
 [scripts]
